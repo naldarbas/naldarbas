@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning and I will be ForEVER...
 
 - 📫 How to reach me ... 
+- [aldarbas.njoud@gmail.com]
 
 <!---
 naldarbas/naldarbas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
